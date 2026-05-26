@@ -192,47 +192,6 @@ Edit that file to customize the in-app help text. Keep the app running through a
 
 ---
 
-## Folder Structure
-
-```text
-MAPit/
-├─ index.html
-├─ start_MAPit.bat
-├─ server.bat
-├─ batchless.html
-├─ README.md
-├─ LICENSE.md
-├─ VERSION.txt
-├─ START_HERE.txt
-├─ exports/
-├─ preview/
-├─ tools/
-│  └─ local-server.js
-└─ assets/
-   ├─ documentation.md
-   ├─ css/
-   │  └─ mapit_ui.css
-   ├─ js/
-   │  ├─ history_manager.js
-   │  ├─ map_engine.js
-   │  └─ mapit_zip.js
-   ├─ img/
-   │  ├─ favicon.png
-   │  └─ logo.png
-   ├─ fonts/
-   ├─ imported_symbols/
-   │  ├─ manifest.json
-   │  ├─ README.md
-   │  └─ symbol assets
-   └─ vendor/
-      ├─ README.md
-      ├─ bootstrap/
-      ├─ three/
-      └─ licenses/
-```
-
----
-
 ## Offline Usage
 
 The editor is intended to work without internet access after the ZIP has been extracted. Keep all runtime libraries and assets local. Do not replace local vendor files with CDN links.
