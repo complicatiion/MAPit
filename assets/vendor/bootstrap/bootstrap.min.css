@@ -1,0 +1,2 @@
+/*! Local minimal Bootstrap compatibility shim for MAPit offline runtime. Not full Bootstrap. */
+:root{--bs-body-bg:#2C2C2C;--bs-body-color:#f7edf1}.btn{display:inline-flex;align-items:center;justify-content:center}.d-none{display:none!important}.text-center{text-align:center}.w-100{width:100%}.h-100{height:100%}.container-fluid{width:100%;margin:0 auto}.row{display:flex;flex-wrap:wrap}.col{flex:1 0 0%}
